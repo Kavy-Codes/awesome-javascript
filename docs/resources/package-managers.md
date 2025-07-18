@@ -11,3 +11,4 @@
 * [volo](https://github.com/volojs/volo) - Create front end projects from templates, add dependencies, and automate the resulting projects.
 * [Duo](https://github.com/duojs/duo) - Next-generation package manager that blends the best ideas from Component, Browserify and Go to make organizing and writing front-end code quick and painless.
 * [yarn](https://yarnpkg.com/) - Fast, reliable, and secure dependency management.
+* [BUN](https://github.com/oven-sh/bun) - Bun is a fast JavaScript all-in-one toolkit
